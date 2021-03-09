@@ -1,7 +1,0 @@
-export * from './Common'
-export * from './InputGroup'
-export * from './TextEditor'
-export * from './SelectGroup'
-export * from './RadioGroup'
-export * from './ImgUpload'
-export * from './Button'

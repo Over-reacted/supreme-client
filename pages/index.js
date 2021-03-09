@@ -1,12 +1,10 @@
 import React from 'react'
-import { Navbar, Footer, AdList } from '../src/components'
+
 
 const Home = () => {
   return (
     <>
-      <Navbar />
-      <AdList />
-      <Footer />
+      <h1>This is a template</h1>
     </>
   )
 }

@@ -1,6 +1,2 @@
 export * from './Document'
 export * from './App'
-export * from './CreateAd'
-export * from './Footer'
-export * from './Navbar'
-export * from './AdList'
